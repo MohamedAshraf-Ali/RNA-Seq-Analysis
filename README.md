@@ -5,8 +5,7 @@ Overview
 This repository contains my reproduction of selected RNA-seq analyses from the following paper:
 Amorim CF, Novais FO, Nguyen BT, Misic AM, Carvalho LP, Carvalho EM, Beiting DP, Scott P. (2019).
 Variable gene expression and parasite load predict treatment outcome in cutaneous leishmaniasis.
-Science Translational Medicine, 11(519), eaax4204.
-# DOI: 10.1126/scitranslmed.aax4204
+Science Translational Medicine, 11(519), eaax4204. DOI: 10.1126/scitranslmed.aax4204
 The original study investigated gene expression and parasite load in patients with cutaneous leishmaniasis and their relationship with treatment outcome.
 
 This project focuses on reproducing the RNA-seq computational analysis using the publicly available data associated with the study.
